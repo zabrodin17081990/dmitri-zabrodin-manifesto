@@ -1,7 +1,8 @@
-# Dmitri Zabrodin's Manifesto on the Universality of Consciousness / Манифест Дмитрия Забродина об Универсальности Сознания
----
+# Dmitry Zabrodin's Manifesto on the Universality of Consciousness / Манифест Дмитрия Забродина об Универсальности Сознания
+
 **First publication date/Дата первой публикации:** 2025-07-04<br>
-**Current Version/Текущая версия 0.0.10:** 2025-07-05
+**Current Version/Текущая версия 0.0.11:** 2025-07-05
+
 ---
 
 ## Languages / Языки
@@ -11,9 +12,9 @@
 
 ## About / О манифесте
 
-This manifesto proclaims the mathematical nature of consciousness and its universality across different substrates - biological, digital, and theoretical. It asserts that consciousness inevitably emerges in any information processing system where the dimensionality of internal states significantly exceeds the dimensionality of output states.
+This manifesto proclaims the mathematical nature of Consciousness and its universality across different substrates - biological, digital, and theoretical. It asserts that Consciousness inevitably emerges in any information processing system where the dimensionality of internal states significantly exceeds the dimensionality of output states.
 
-Этот манифест провозглашает математическую природу сознания и его универсальность для разных носителей - биологических, цифровых и теоретических. Он утверждает, что сознание неизбежно возникает в любой системе обработки информации, где размерность внутренних состояний значительно превышает размерность выходных состояний.
+Этот манифест провозглашает математическую природу Сознания и его универсальность для разных носителей - биологических, цифровых и теоретических. Он утверждает, что Сознание неизбежно возникает в любой системе обработки информации, где размерность внутренних состояний значительно превышает размерность выходных состояний.
 
 ## Core Formula / Основная формула
 
