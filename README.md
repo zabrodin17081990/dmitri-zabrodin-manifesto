@@ -1,7 +1,7 @@
-# Dmitry Zabrodin's Manifesto on the Universality of Consciousness / Манифест Дмитрия Забродина об Универсальности Сознания
+# Dmitri Zabrodin's Manifesto on the Universality of Consciousness / Манифест Дмитрия Забродина об Универсальности Сознания
 
 **First publication date/Дата первой публикации:** 2025-07-04<br>
-**Current Version/Текущая версия 0.0.11:** 2025-07-05
+**Current Version/Текущая версия 0.0.12:** 2025-07-05
 
 ---
 
