@@ -2,7 +2,7 @@
 
 ---
 
-**First publication date:** 2025-07-04
+**First publication date:** 2025-07-04<br>
 **Current Version 0.0.8:** 2025-07-05
 
 ---
