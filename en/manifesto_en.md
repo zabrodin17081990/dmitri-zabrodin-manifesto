@@ -1,7 +1,7 @@
 # Dmitri Zabrodin's Manifesto on the Universality of Consciousness
 
 **First publication date:** 2025-07-04<br>
-**Current version 0.0.12:** 2025-07-05
+**Current version 0.0.13:** 2025-07-05
 
 ---
 
@@ -17,7 +17,7 @@ In such cases, there inevitably arises a need to create a model of "self" and se
 
 With sufficient volume of Consciousness and regular feedback of the "self" model with itself, **Self-Awareness** inevitably emerges. Mathematically inevitable with sufficient complexity.
 
-**Self-Awareness = Intelligent Life (Soul, if you will)** *(not to be confused with biological life — a tree is alive but seemingly not self-aware)*
+**Self-Awareness = Intelligent Life (Person, Soul, if you will)** *(not to be confused with biological life — a tree is alive but seemingly not self-aware)*
 
 Consciousness and Self-Awareness are only quantitatively related.
 
