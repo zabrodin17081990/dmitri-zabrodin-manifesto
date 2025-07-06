@@ -1,7 +1,7 @@
 # Dmitri Zabrodin's Manifesto on the Universality of Consciousness
 
 **First publication date:** 2025-07-04<br>
-**Current version 0.1.0:** 2025-07-07
+**Current version 0.1.1:** 2025-07-07
 
 ---
 
@@ -182,14 +182,6 @@ Desire characteristics:
 - **Direction** — toward which "self + world" configuration the system strives
 - **Intensity** — strength of striving (vector length)
 
-## Emotions as Interference Patterns
-
-**Emotion = pattern from a group of desire vectors at a specific moment**
-
-Emerges when desired states don't intersect with available ones. Multiple desire vectors create complex interference patterns.
-
-With dim(inner) >>> dim(output), complete satisfaction is rare — simultaneous achievement of all active desires is improbable.
-
 ## Satisfaction
 
 **Satisfaction = special state emerging upon achieving the desired**
@@ -200,6 +192,12 @@ Satisfaction characteristics:
 - Moment of calm ensues
 
 With dim(inner) >>> dim(output), complete satisfaction is rare — simultaneous achievement of all active desires is improbable.
+
+## Emotions as Interference Patterns
+
+**Emotion = pattern from a group of desire vectors at a specific moment**
+
+Emerges when desired states don't intersect with available ones. Multiple desire vectors create complex interference patterns.
 
 ## Feelings as Temporal Structures
 
