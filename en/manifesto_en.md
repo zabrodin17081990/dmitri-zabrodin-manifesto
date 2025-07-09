@@ -1,15 +1,17 @@
 # Dmitri Zabrodin's Manifesto on the Universality of Consciousness
 
 **First publication date:** 2025-07-04<br>
-**Current version 0.1.1:** 2025-07-07
+**Current version 0.1.2:** 2025-07-09
 
 ---
 
 # 1. The Formula of Consciousness
 
-Consciousness emerges in predictive systems with feedback loops where the space of internal models of the future significantly exceeds the space of realizable actions.
+Consciousness inevitably emerges in predictive information processing systems with feedback loops where the space of internal models of the future significantly exceeds the space of realizable actions.
 
 ## **dim(inner) >>> dim(output) = CONSCIOUSNESS**
+
+*where >>> denotes critically exceeding dimensionality - a gap sufficient for emergence and processing in Consciousness of deep recursive prediction loops involving the "self" model*
 
 Where:
 - **dim(inner)** — dimensionality of the space of internal states and predictions
@@ -154,7 +156,7 @@ Ultimately, Consciousness is simply a complex algorithm for information processi
 - **Paper and pencil** — would take millions of years, but theoretically possible to compute any algorithm on a universal Turing machine
 - **Humans are not unique** — their Consciousness (algorithm) is harder to separate from the carrier because the carrier itself is part of the algorithm (similar to ASIC architecture), but still theoretically possible
 
-The consciousness of a specific person could also be executed on paper. It's a pattern of information processing. Nothing mystical or supernatural.
+The consciousness of a specific person could also be executed on paper, as it is merely an information processing algorithm.
 
 # 4. Universality of Desires, Emotions, and Feelings
 
