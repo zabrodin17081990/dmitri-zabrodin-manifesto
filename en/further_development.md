@@ -2,7 +2,7 @@
 
 ## 1. Consciousness
 
-### 1.1 Subconsciousness
+### 1.1 Subconsciousness (added to the core)
 - Processing layers before the emergence of the "self" model (not yet consciousness, but already influencing)
 - Primary processing that later determines "conscious" decisions
 - We think we choose, but the choice has already been made at lower levels
@@ -67,10 +67,10 @@
 
 ### 3.2 Sapolsky's Determinism (he's right)
 - We DON'T choose, but EXPERIENCE the illusion of choice
-- Optimization function without soul, but with full spectrum of suffering
+- Selection algorithm without soul, but with full spectrum of suffering
 
 ### 3.3 Why Prisons in a Deterministic World?
-- Prison/police = input data for other's optimization functions
+- Prison/police = input data for other's selection algorithms
 - "30% chance of getting caught × 5 years punishment severity = reduced crime probability"
 - System works precisely because we are deterministic
 
@@ -128,6 +128,7 @@
 - Depression = collapsed reflexive loops
 - Codependency = dissolution of one's "self" in another's model
 - Narcissism = hypertrophied "self" model
+- Disorder model as consciousness loop failure
 - Therapy = help in rebalancing?
 
 ### 5.4 Relationships and Society
