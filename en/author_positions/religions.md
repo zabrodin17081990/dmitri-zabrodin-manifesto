@@ -1,4 +1,4 @@
-# Author's Position on Religions (Updated English Translation)
+# Author's Position on Religions
 
 ## Religions as Consciousness's Defense Mechanism
 
