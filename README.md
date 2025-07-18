@@ -1,12 +1,12 @@
 # Dmitri Zabrodin's Manifesto on the Universality of Consciousness
 
 **First publication:** 2025-07-04<br>
-**Current version:** 0.3.0 (2025-07-18)
+**Current version:** 0.3.0 (2025-07-19)
 
 ## Languages
-- [🇺🇸 English](en/manifesto_en.md)
-- [🇷🇺 Русский](ru/manifesto_ru.md) *(author's native language)*
-- [🇨🇳 中文](zh/manifesto_zh.md)
+- [🇺🇸 English](en/manifesto.md)
+- [🇷🇺 Русский](ru/manifesto.md) *(author's native language)*
+- [🇨🇳 中文](zh/manifesto.md)
 
 ## About the Manifesto
 This manifesto proclaims the mathematical nature of Consciousness and its universality regardless of physical substrate. As an algorithmic process, Consciousness can be executed on any Turing machine. Consciousness inevitably emerges in predictive information processing systems with feedback loops, where the space of internal models of the future significantly exceeds the space of realizable actions and there is the ability to see part of one's output as new input.

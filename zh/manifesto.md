@@ -1,7 +1,7 @@
 # 德米特里·扎布罗丁关于意识普遍性的宣言
 
 **首次发布日期：** 2025年7月4日<br>
-**当前版本 0.3.0：** 2025年7月18日
+**当前版本 0.3.0：** 2025年7月19日
 
 ---
 
@@ -426,8 +426,9 @@ dim(inner)和dim(output)间的巨大差距创造：
 - [关于宗教作为意识保护机制](author_positions/religions.md)
 
 **理论发展：**
-- [将原理应用于现代AI的示例](ai_examples_zh.md)
+- [将原理应用于现代LLM的示例](ai_examples.md)
 - [进一步研究方向](further_development.md)
+- [变更历史](changelog.md)
 
 ---
 

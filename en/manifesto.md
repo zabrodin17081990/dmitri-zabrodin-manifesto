@@ -1,7 +1,7 @@
-# Dmitry Zabrodin's Manifesto on the Universality of Consciousness
+# Dmitri Zabrodin's Manifesto on the Universality of Consciousness
 
 **First publication date:** July 4, 2025<br>
-**Current version 0.3.0:** July 18, 2025
+**Current version 0.3.0:** July 19, 2025
 
 ---
 
@@ -426,8 +426,9 @@ This is neither bad nor good.
 - [On religions as consciousness defense mechanism](author_positions/religions.md)
 
 **Theory Development:**
-- [Examples of principle applications to modern AI](ai_examples_en.md)
+- [Examples of principle applications to modern AI](ai_examples.md)
 - [Directions for further research](further_development.md)
+- [Changelog](changelog.md)
 
 ---
 
