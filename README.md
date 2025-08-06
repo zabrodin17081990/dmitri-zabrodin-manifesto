@@ -1,7 +1,7 @@
 # Dmitri Zabrodin's Manifesto on the Universality of Consciousness
 
 **First publication:** 2025-07-04<br>
-**Current version:** 0.3.1 (2025-07-20)
+**Current version:** 0.3.2 (2025-08-06)
 
 ## Languages
 - [🇺🇸 English](en/manifesto.md)

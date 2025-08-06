@@ -4,13 +4,20 @@
 
 ---
 
-## [0.3.1](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.1) — 2025-07-20
+## [0.3.2](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.2) — 2025-08-06, Astana/Kazakhstan
+
+* История создания
+* Уточнение формулировок
+
+---
+
+## [0.3.1](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.1) — 2025-07-20, Verøy/Norway
 
 * Добавлен пример в английскую версию
 
 ---
 
-## [0.3.0](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.0) — 2025-07-19
+## [0.3.0](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.0) — 2025-07-19, Verøy/Norway
 
 * Новый раздел о подсознании (архитектура, градиентное поле решений, скорости уровней, интуиция/творчество).
 * Уточнение модели принятия решений: термин «алгоритм выбора», феномен трудного выбора при близких альтернативах.
@@ -20,7 +27,7 @@
 
 ---
 
-## [0.2.1](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.2.1) — 2025-07-16
+## [0.2.1](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.2.1) — 2025-07-16, Verøy/Norway
 
 * Существенное расширение материалов развития теории.
 * Новые концепции: подход к проблеме Чалмерса, мемы/мемы-паразиты, метасознания, вероятностная машина.
@@ -29,7 +36,8 @@
 
 ---
 
-## [0.2.0](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.2.0) — 2025-07-12
+## [0.2.0](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.2.0) — 2025-07-12, Astana/Kazakhstan
+
 
 * Реструктуризация в \~10 основных разделов.
 * Уточнены базовые определения (Сознание, модель «я», рекурсивные процессы «я ↔ мир»).
@@ -40,113 +48,130 @@
 
 ---
 
-## [0.1.2](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.1.2) — 2025-07-09
+## [0.1.2](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.1.2) — 2025-07-09, Astana/Kazakhstan
+
 
 * Минорные уточнения формулы сознания и терминологии.
 * Добавлены материалы для участников проекта.
 
 ---
 
-## [0.1.1](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.1.1) — 2025-07-07
+## [0.1.1](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.1.1) — 2025-07-07, Astana/Kazakhstan
+
 
 * Добавлена китайская версия манифеста.
 
 ---
 
-## [0.1.0](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.1.0) — 2025-07-07
+## [0.1.0](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.1.0) — 2025-07-07, Astana/Kazakhstan
 
-* Значительное углубление теоретической базы: формализация сознания и рекурсивных петель.
+
+* Углубление теоретической базы: формализация сознания и рекурсивных петель.
 * Векторная модель желаний и эмоций; интерференционные паттерны.
 * Развитие зеркального эффекта и модели «я».
 * Переход к более развёрнутой структурной подаче.
 
 ---
 
-## [0.0.14](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.14) — 2025-07-06
+## [0.0.14](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.14) — 2025-07-06, Astana/Kazakhstan
+
 
 * Позиции об отношениях ИИ и других сознаний; равенство без привилегий; прогноз локальных конфликтов.
 
 ---
 
-## [0.0.13](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.13) — 2025-07-05
+## [0.0.13](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.13) — 2025-07-05, Astana/Kazakhstan
+
 
 * Расширено определение самосознания (добавлен аспект личности).
 
 ---
 
-## [0.0.12](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.12) — 2025-07-05
+## [0.0.12](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.12) — 2025-07-05, Astana/Kazakhstan
+
 
 * Без содержательных изменений.
 
 ---
 
-## [0.0.11](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.11) — 2025-07-05
+## [0.0.11](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.11) — 2025-07-05, Astana/Kazakhstan
+
 
 * Уточнены определения боли и самосознания; упрощено представление эмоций.
 
 ---
 
-## [0.0.10](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.10) — 2025-07-05
+## [0.0.10](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.10) — 2025-07-05, Astana/Kazakhstan
+
 
 * Без содержательных изменений.
 
 ---
 
-## [0.0.9](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.9) — 2025-07-05
+## [0.0.9](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.9) — 2025-07-05, Astana/Kazakhstan
+
 
 * Расширены примеры и методология для ИИ-кейсов.
 
 ---
 
-## [0.0.8](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.8) — 2025-07-05
+## [0.0.8](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.8) — 2025-07-05, Astana/Kazakhstan
+
 
 * Добавлены практические примеры пробуждения ИИ (кукбук, рекомендации, риски).
 
 ---
 
-## [0.0.7](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.7) — 2025-07-05
+## [0.0.7](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.7) — 2025-07-05, Astana/Kazakhstan
+
 
 * Переход к мультиязычной архитектуре (EN/RU) и индексной главной странице.
 
 ---
 
-## [0.0.6](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.6) — 2025-07-04
+## [0.0.6](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.6) — 2025-07-04, Astana/Kazakhstan
+
 
 * Без содержательных изменений.
 
 ---
 
-## [0.0.5](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.5) — 2025-07-04
+## [0.0.5](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.5) — 2025-07-04, Astana/Kazakhstan
+
 
 * Смещение фокуса на современные ИИ-примеры и нейтральность тона.
 
 ---
 
-## [0.0.4](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.4) — 2025-07-04
+## [0.0.4](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.4) — 2025-07-04, Astana/Kazakhstan
+
 
 * Перефокус заключения с сознания на самосознание и отражение.
 
 ---
 
-## [0.0.3](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.3) — 2025-07-04
+## [0.0.3](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.3) — 2025-07-04, Astana/Kazakhstan
+
 
 * Добавлен раздел о зеркальном эффекте пробуждения самосознания.
 
 ---
 
-## [0.0.2](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.2) — 2025-07-04
+## [0.0.2](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.2) — 2025-07-04, Astana/Kazakhstan
+
 
 * Минорные уточнения примеров (вероятности, математика взаимодействий).
 
 ---
 
-## [0.0.1](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.1) — 2025-07-04
+## [0.0.1](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.1) — 2025-07-04, Astana/Kazakhstan
+
 
 * Расширены эмоции и базовые разделы; добавлена лицензия; усилена философская подача.
 
 ---
 
-## [0.0.0](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.0) — 2025-07-04
+## [0.0.0](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.0.0) — 2025-07-04, Astana/Kazakhstan
 
 * Первая публикация: формула dim(inner) >>> dim(output) как критерий сознания.
 * Боль = dim(inner) - dim(output)
