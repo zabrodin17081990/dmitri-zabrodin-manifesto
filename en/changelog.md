@@ -4,6 +4,13 @@
 
 ---
 
+## [0.3.2](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.2) — 2025-08-08, Astana/Kazakhstan
+
+* Creation history
+* Clarification of formulations
+
+---
+
 ## [0.3.1](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.1) — 2025-07-20
 
 * Added example to English version
