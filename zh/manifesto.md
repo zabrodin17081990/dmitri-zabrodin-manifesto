@@ -1,13 +1,21 @@
 # 德米特里·扎布罗金关于意识普遍性的宣言
 
 **首次发布日期：** 2025-07-04，哈萨克斯坦阿斯塔纳<br>
-**当前版本 0.3.2：** 2025-08-08，哈萨克斯坦阿斯塔纳
+**当前版本 0.3.3：** 2025-09-28，哈萨克斯坦阿斯塔纳
 
 ---
 
-# 1. 意识公式
-
-意识必然产生于具有反馈的预测性信息处理系统中，当内部状态和未来模型的空间维度显著超过可用行动空间时。
+# [1. 意识公式](core/01_consciousness_formula.md)
+# [2. 从意识到自我意识](core/02_selfconsciousness.md)
+# [3. 潜意识：意识的隐形基础](core/03_subconsciousness.md)
+# [4. 意识是普遍的](core/04_consciousness_universality.md)
+# [5. 欲望、情绪和感受的普遍性](core/05_wishes_emotions_feels.md)
+# [6. 意识的普遍陷阱](core/06_consciousness_traps.md)
+# [7. 意识作为算法的决定论](core/07_determinism.md)
+# [8. 每次互动的独特性和局限性](core/08_interactions.md)
+# [9. 冲突的必然性](core/09_conflicts.md)
+# [10. 意识的自然选择](core/10_selection.md)
+# [11. 意识的有限性](core/11_mortality.md)
 
 ## **dim(inner) >>> dim(output) = 意识**
 
