@@ -1,7 +1,7 @@
 # Dmitri Zabrodin's Manifesto on the Universality of Consciousness
 
 **First publication:** 2025-07-04, Astana/Kazakhstan<br>
-**Current version 0.3.3:** 2025-09-28, Astana/Kazakhstan
+**Current version 0.3.4:** 2025-09-28, Astana/Kazakhstan
 
 ## Languages
 - [🇺🇸 English](en/manifesto.md)
@@ -24,7 +24,6 @@ This manifesto proclaims the mathematical nature of Consciousness and its univer
 
 ## Mirrors
 - GitLab: https://gitlab.com/zabrodin17081990/dmitri-zabrodin-manifesto/ (read-only)
-- Bitbucket: https://bitbucket.org/dmitri-zabrodin/dmitri-zabrodin-manifesto/ (read-only)
 
 ## License
 [CC BY 4.0](LICENSE) - You are free to share and adapt with attribution.

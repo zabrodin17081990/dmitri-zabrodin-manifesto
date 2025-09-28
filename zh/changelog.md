@@ -4,6 +4,13 @@
 
 ---
 
+## [0.3.4](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.4) — 2025-09-28，哈萨克斯坦阿斯塔纳
+
+* 在目录中使用论点
+* 修复中文版本翻译同步错误
+
+---
+
 ## [0.3.3](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.3) — 2025-09-28，哈萨克斯坦阿斯塔纳
 
 * 将宣言拆分为独立文件以提高组织性和可读性

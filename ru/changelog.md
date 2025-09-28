@@ -4,6 +4,13 @@
 
 ---
 
+## [0.3.4](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.4) — 2025-09-28, Astana/Kazakhstan
+
+* Использование тезисов в оглавлении
+* Исправление ошибки синхронизации перевода китайской версии
+
+---
+
 ## [0.3.3](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.3) — 2025-09-28, Astana/Kazakhstan
 
 * Разделение манифеста на отдельные файлы для улучшения организации и читаемости

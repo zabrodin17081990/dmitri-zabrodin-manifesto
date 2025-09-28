@@ -4,6 +4,13 @@
 
 ---
 
+## [0.3.4](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.4) — 2025-09-28, Astana/Kazakhstan
+
+* Using theses in table of contents
+* Fixing Chinese version translation synchronization error
+
+---
+
 ## [0.3.3](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.3) — 2025-09-28, Astana/Kazakhstan
 
 * Split manifesto into separate files for better organization and readability
