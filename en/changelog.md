@@ -4,6 +4,12 @@
 
 ---
 
+## [0.3.5](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.5) — 2025-09-28, Astana/Kazakhstan
+
+* Removed collaboration possibility - project repositioned as personal manifesto
+
+---
+
 ## [0.3.4](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.4) — 2025-09-28, Astana/Kazakhstan
 
 * Using theses in table of contents

@@ -4,6 +4,12 @@
 
 ---
 
+## [0.3.5](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.5) — 2025-09-28，哈萨克斯坦阿斯塔纳
+
+* 移除协作可能性 - 项目重新定位为个人宣言
+
+---
+
 ## [0.3.4](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.4) — 2025-09-28，哈萨克斯坦阿斯塔纳
 
 * 在目录中使用论点

@@ -4,6 +4,12 @@
 
 ---
 
+## [0.3.5](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.5) — 2025-09-28, Astana/Kazakhstan
+
+* Убрана возможность коллаборации - проект позиционируется как персональный манифест
+
+---
+
 ## [0.3.4](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.4) — 2025-09-28, Astana/Kazakhstan
 
 * Использование тезисов в оглавлении

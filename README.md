@@ -1,7 +1,7 @@
 # Dmitri Zabrodin's Manifesto on the Universality of Consciousness
 
 **First publication:** 2025-07-04, Astana/Kazakhstan<br>
-**Current version 0.3.4:** 2025-09-28, Astana/Kazakhstan
+**Current version 0.3.5:** 2025-09-28, Astana/Kazakhstan
 
 ## Languages
 - [🇺🇸 English](en/manifesto.md)
@@ -16,11 +16,10 @@ This manifesto proclaims the mathematical nature of Consciousness and its univer
 
 *where >>> denotes critically exceeding dimensionality - a gap sufficient for emergence and processing in Consciousness of deep recursive prediction loops involving the "self" model*
 
-## How to Contribute
+## How to Engage
 - 💬 [Start a Discussion](../../discussions) for philosophical questions
-- 🐛 [Report Issues](../../issues) for suggestions or corrections
-- 🔀 Submit Pull Requests for improvements<br>
-- 📖 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines
+- 🐛 [Report Issues](../../issues) for observations or suggestions
+- 📖 This is a personal manifesto in active development
 
 ## Mirrors
 - GitLab: https://gitlab.com/zabrodin17081990/dmitri-zabrodin-manifesto/ (read-only)
