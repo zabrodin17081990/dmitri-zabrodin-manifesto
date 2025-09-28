@@ -4,6 +4,12 @@
 
 ---
 
+## [0.3.3](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.3) — 2025-09-28，哈萨克斯坦阿斯塔纳
+
+* 将宣言拆分为独立文件以提高组织性和可读性
+
+---
+
 ## [0.3.2](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.2) — 2025-08-08，哈萨克斯坦阿斯塔纳
 
 * 创作历史

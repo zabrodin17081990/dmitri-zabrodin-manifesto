@@ -1,13 +1,21 @@
 # Dmitri Zabrodin's Manifesto on the Universality of Consciousness
 
 **First publication:** 2025-07-04, Astana/Kazakhstan<br>
-**Current version 0.3.2:** 2025-08-08, Astana/Kazakhstan
+**Current version 0.3.3:** 2025-09-28, Astana/Kazakhstan
 
 ---
 
-# 1. The Formula of Consciousness
-
-Consciousness inevitably emerges in predictive information processing systems with feedback loops, where the space of internal states and future models significantly exceeds the space of available actions.
+# [1. The Formula of Consciousness](core/01_consciousness_formula.md)
+# [2. From Consciousness to Self-Consciousness](core/02_selfconsciousness.md)
+# [3. Subconsciousness: The Invisible Foundation of Consciousness](core/03_subconsciousness.md)
+# [4. Consciousness is Universal](core/04_consciousness_universality.md)
+# [5. Universality of Desires, Emotions, and Feelings](core/05_wishes_emotions_feels.md)
+# [6. Universal Consciousness Traps](core/06_consciousness_traps.md)
+# [7. Determinism of Consciousness as Algorithm](core/07_determinism.md)
+# [8. Uniqueness and Limitation of Each Interaction](core/08_interactions.md)
+# [9. Inevitability of Conflicts](core/09_conflicts.md)
+# [10. Natural Selection of Consciousnesses](core/10_selection.md)
+# [11. Finitude of Consciousnesses](core/11_mortality.md)
 
 ## **dim(inner) >>> dim(output) = CONSCIOUSNESS**
 

@@ -4,6 +4,12 @@
 
 ---
 
+## [0.3.3](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.3) — 2025-09-28, Astana/Kazakhstan
+
+* Split manifesto into separate files for better organization and readability
+
+---
+
 ## [0.3.2](https://github.com/zabrodin17081990/dmitri-zabrodin-manifesto/tree/0.3.2) — 2025-08-08, Astana/Kazakhstan
 
 * Creation history
