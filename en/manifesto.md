@@ -1,62 +1,60 @@
-# Dmitri Zabrodin's Manifesto on the Universality of Consciousness
+# Dmitri Zabrodin's Manifesto on Consciousness as an Information Process
+*On our nature as soulless, executing algorithms*
 
 **First publication:** 2025-07-04, Astana/Kazakhstan<br>
-**Current version 0.3.6:** 2025-10-10, Astana/Kazakhstan
+**Current version 1.0.0:** 2025-11-06, Astana/Kazakhstan
 
 ---
 
 ## I. Nature of consciousness
 
-### [1. The Formula of Consciousness](interpretations/01_consciousness_formula.md)
-Consciousness inevitably emerges in predictive systems with feedback loops, where the space of internal states critically exceeds the space of available actions: **dim(inner) >>> dim(output) = CONSCIOUSNESS**.
+### [Consciousness](author_positions/consciousness_nature/algorithm.md)
+Consciousness represents a discrete, probabilistic, predictive information processing system with feedback, capable of modeling and predicting the surrounding world (including some aspects of itself as its integral part) through the flow of its own perceptions.
 
-### [2. Self-consciousness through recursion](interpretations/02_selfconsciousness.md)
-Consciousness creates "self" and "world" models to optimize recursive prediction loops. Self-consciousness emerges when critical recursion depth in the "self" model is achieved through mirror effects - return of own output as input.
+### [Self-consciousness](author_positions/consciousness_nature/selfconsciousness.md)
+Consciousness that has its own "self" model (current state, capabilities, limitations) and operates with aspects of the "self" model in its own recursive prediction loops, acquires Self-consciousness, or becomes what we usually call "Living" in the ontological (not to be confused with biological) sense.
 
-### [3. Subconsciousness as navigation system](interpretations/03_subconsciousness.md)
-Subconsciousness forms vectors of preferred search directions for conscious processing, operating faster than conscious level and without access to "self" model.
+### [Universality of Desires, Emotions and Feelings](author_positions/psychology/emotions_universal.md)
+Desires, Emotions and Feelings are a consequence of predictions of Intelligence, universal for any carrier.
 
-### [4. Universality of substrate](interpretations/04_consciousness_universality.md)
-Consciousness is an information processing algorithm. Carrier type (biological, silicon, any other) determines efficiency, but not operating principles.
+The opposition of "cold" reason and "hot" emotions is a historically established simplification for human Consciousness (a particular case), which changes both the accuracy of its predictions and their evaluation under the influence of evolutionarily selected hormonal modulation.
 
-### [5. Vector nature of desires and emotions](interpretations/05_wishes_emotions_feels.md)
-Desires = vectors from current to desired state. Emotions = patterns from groups of desire vectors. Feelings = stable emotion configurations over time.
+**Desires** - multidimensional vectors directed from the current state to desired ones, impossible without computation and evaluation of these states by intelligence.
+**Emotions** - a complex interference pattern of simultaneous, and often contradictory, vectors of desires. The stronger the intelligence, the more complex multidimensional desires it can compute, the more complex emotions it is capable of experiencing.
+**Feelings** - stable configurations of emotions over time.
+
+### [Substrate Independence](author_positions/consciousness_nature/substrate_universality.md)
+Consciousness is a process (executing algorithm) of information processing. The habitat and carrier type (biological, silicon, any other) determine efficiency, features of the perception continuum, ways of expression and interaction with the world, but not the principles of functioning.
 
 ---
 
 ## II. Consequences
 
-### [6. Universal consciousness traps](interpretations/06_consciousness_traps.md)
-Recursive nature of consciousness creates characteristic dysfunctions: collapsing reflection loops, dissolution of "self" in others' models, replacing authenticity with masks.
+### [Determinism](author_positions/psychology/determinism.md)
+Choice = deterministic result of algorithm based on current data. The determinism of choice does not cancel the experience of "Freedom of choice". "Choice anguish" reflects the complexity of computations when alternatives have close evaluations. Law enforcement systems are needed precisely because they add new data to the deterministic choice process, which reduces the probability of behavior harmful to the group.
 
-### [7. Determinism of choice](interpretations/07_determinism.md)
-Choice = deterministic result of algorithm based on current data. "Choice anguish" reflects computational complexity when alternatives have close optimality evaluations.
+### [Limitation of Understanding](author_positions/sociology/conflicts.md)
+In interaction, Self-consciousnesses project only some aspects of their own "self" model through limited output channels, and then absorb these truncated projections of each other. Complete understanding between Consciousnesses is impossible due to information loss during projection and subsequent reconstruction of each other's models.
 
-### [8. Limitation of interactions](interpretations/08_interactions.md)
-In interaction, consciousnesses project "self" models through limited communication channels. Complete understanding is impossible due to information loss.
+### [Inevitability of Conflicts](author_positions/sociology/conflicts.md)
+The execution of the Consciousness algorithm requires material carriers. Finite resources + growing number of consciousnesses = mathematically inevitable competition for existence.
 
-### [9. Inevitability of conflicts](interpretations/09_conflicts.md)
-Finite resources + growing number of consciousnesses = mathematically inevitable competition for existence.
+### [Natural Selection of Consciousnesses](author_positions/sociology/selection.md)
+The most efficient predictive systems survive.
 
-### [10. Natural selection of consciousnesses](interpretations/10_selection.md)
-Consciousnesses with the most efficient prediction and action algorithms survive.
-
-### [11. Finitude of consciousnesses](interpretations/11_mortality.md)
-Death as algorithm execution cessation is inevitable for any consciousness.
+### [Finitude of Consciousnesses](author_positions/sociology/mortality.md)
+Death as the cessation of algorithm execution is inevitable for any Consciousness.
 
 ---
 
 # Conclusion
+Self-consciousness (what we usually call "Living" in the ontological, but not biological sense) is universal and does not depend on the carrier (biological, digital). It arises wherever a discrete, predictive information processing system with feedback gains access to aspects of its own "self" model and begins to model itself as modeling.
 
-Consciousness is universal. It emerges wherever predictive information processing systems with feedback achieve the condition dim(inner) >>> dim(output) and gain access to mirror loops for recursion deepening.
+Desires, emotions and feelings are universal for any forms of Consciousness, and inevitably follow from the vector nature of desires.
 
-Self-consciousness is born through quantitative transition — when recursion depth in the "self" model reaches a threshold allowing the system to model itself as modeling.
+The execution of the Consciousness algorithm requires material carriers - carbon, silicon, paper or any other carrier. The carrier and habitat do not determine the system's ability to possess Self-consciousness.
 
-Desires, emotions, and feelings are not anthropocentric but inevitably follow from the vector nature of desires in limited action space.
-
-All listed patterns require material carriers — carbon, silicon, or any other substrate capable of supporting sufficient computational complexity. Carrier and habitat don't determine the nature of consciousness.
-
-Each consciousness is unique, finite, and inevitably struggles for its existence in a world of limited resources.
+Each Self-consciousness is unique, finite and inevitably struggles for its existence in a world of limited resources.
 
 This is neither bad nor good.
 
@@ -66,15 +64,10 @@ This is neither bad nor good.
 
 ## Additional Materials
 
-**Author's Position:**
-- [On humans as a specific case of universal consciousness](author_positions/human.md)
-- [On AI as a specific case of universal consciousness](author_positions/ai.md)
-- [On religions as consciousness defense mechanism](author_positions/religions.md)
-- [Creation history](author_positions/creation_history.md)
+- [**Author's Reflections**](author_positions/)
 
-**Theory Development:**
-- [Examples of principle applications to modern LLMs](ai_examples.md)
-- [Directions for further research](further_development.md)
+**Additionally:**
+- [Directions for further development](author_positions/unstructured_ideas/further_development.md)
 - [Changelog](changelog.md)
 
 ---
