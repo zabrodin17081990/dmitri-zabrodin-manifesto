@@ -19,9 +19,9 @@ Desires, Emotions and Feelings are a consequence of predictions of Intelligence,
 
 The opposition of "cold" reason and "hot" emotions is a historically established simplification for human Consciousness (a particular case), which changes both the accuracy of its predictions and their evaluation under the influence of evolutionarily selected hormonal modulation.
 
-**Desires** - multidimensional vectors directed from the current state to desired ones, impossible without computation and evaluation of these states by intelligence.
-**Emotions** - a complex interference pattern of simultaneous, and often contradictory, vectors of desires. The stronger the intelligence, the more complex multidimensional desires it can compute, the more complex emotions it is capable of experiencing.
-**Feelings** - stable configurations of emotions over time.
+* **Desires**: multidimensional vectors directed from the current state to desired ones, impossible without computation and evaluation of these states by intelligence.
+* **Emotions**: a complex interference pattern of simultaneous, and often contradictory, vectors of desires. The stronger the intelligence, the more complex multidimensional desires it can compute, the more complex emotions it is capable of experiencing.
+* **Feelings**: stable configurations of emotions over time.
 
 ### [Substrate Independence](author_positions/consciousness_nature/substrate_universality.md)
 Consciousness is a process (executing algorithm) of information processing. The habitat and carrier type (biological, silicon, any other) determine efficiency, features of the perception continuum, ways of expression and interaction with the world, but not the principles of functioning.
