@@ -2,7 +2,7 @@
 
 ---
 
-*[Stub — new material about empaths vs psychopaths vs sociopaths as different processing algorithms]*
+*(stub)*
 
 Key theses:
 - Empaths: simple fast reactions

@@ -1,4 +1,4 @@
-# 9. Inevitability of Conflicts
+# Inevitability of Conflicts
 
 Finite resources + a growing number of consciousnesses in a finite habitat = competition for existence.
 

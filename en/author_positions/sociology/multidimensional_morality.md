@@ -2,7 +2,7 @@
 
 ---
 
-*[Stub — expand idea from our dialogue about probabilities 0.3/0.6/0.9]*
+*(stub)*
 
 Key theses:
 - People are not simply "good" or "bad"

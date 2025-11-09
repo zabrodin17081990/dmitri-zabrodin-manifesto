@@ -2,7 +2,7 @@
 
 ---
 
-*[Stub — expand idea about computational surplus]*
+*(stub)*
 
 Key theses:
 - Psychopathy = not lack of empathy, but computational surplus

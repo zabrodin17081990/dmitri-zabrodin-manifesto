@@ -2,7 +2,7 @@
 
 ---
 
-*[Stub — new material]*
+*(stub)*
 
 Key theses:
 - We often end up where we fled from

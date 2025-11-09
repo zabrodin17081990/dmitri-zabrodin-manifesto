@@ -2,7 +2,7 @@
 
 ---
 
-*[Stable — hard material]*
+*(stub)*
 
 Key theses:
 - Physical laws oppose immortality

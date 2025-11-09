@@ -1,4 +1,4 @@
-# 11. Finitude of Consciousnesses
+# Finitude of Consciousnesses
 
 Every Consciousness is limited by available computational resources and is subject to the second law of thermodynamics. Entropy inevitably increases, making any ordered state temporary.
 

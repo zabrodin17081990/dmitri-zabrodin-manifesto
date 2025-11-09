@@ -2,7 +2,7 @@
 
 ---
 
-*[Stub — revolutionary material]*
+*(stub)*
 
 Key theses:
 - Several "I" models within one body

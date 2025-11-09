@@ -2,7 +2,7 @@
 
 ---
 
-*[Stable — new material]*
+*(stub)*
 
 Key theses:
 - Qualia are inevitable when dim(inner) >>> dim(output)

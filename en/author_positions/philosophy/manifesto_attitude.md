@@ -2,7 +2,7 @@
 
 ---
 
-*(stable)*
+*(stub)*
 
 ## Thesis
 The author does not seek mass or rapid dissemination of the manifesto's ideas and approaches them with extreme caution.

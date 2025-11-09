@@ -2,7 +2,7 @@
 
 ---
 
-*[Stable — explosive material]*
+*(stub)*
 
 Key theses:
 - If a Creator-God exists, it would be a consciousness with an enormous dim(inner), but nevertheless just a consciousness with all that entails
@@ -12,4 +12,4 @@ Key theses:
 - The carrier
 - Relativity of morality
 - "In the image and likeness" (fractality, as with all consciousnesses)
-- What religions say about such a being is questionable from my point of view
+- What religions say about such a being is questionable from my point of view.

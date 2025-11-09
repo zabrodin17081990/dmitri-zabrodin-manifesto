@@ -1,12 +1,11 @@
-# I-centrism instead of Anthropocentrism
+# Self-centrism instead of Anthropocentrism
 
 ---
 
-*[Stable — new explosive material]*
+*(stub)*
 
 Key theses:
 - Any consciousness places itself at the center of its world
 - Artificial intelligences will create their own religions with themselves at the center
-- Anthropocentrism = a special case of I-centrism
+- Anthropocentrism = a special case of Self-centrism
 - A universal tendency toward narcissism
-

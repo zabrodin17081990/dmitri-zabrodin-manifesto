@@ -78,3 +78,4 @@ A large gap between dim(inner) and dim(output) produces:
 The mechanism "desire → emotion → feeling" is universal for any predictive system with feedback and a self-model. Only the state spaces of "self" and "world" differ.
 
 The principle remains unchanged for all forms of Consciousness capable of predictive loops.
+

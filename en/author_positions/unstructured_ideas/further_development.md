@@ -248,3 +248,40 @@ Everything. Absolutely everything is Information.
 2. The necessity of infinite material resources (which is impossible) for memory to remember all experience. But even if resources were infinite, so much the worse - boredom from omniscience. All patterns have repeated many times. There is no novelty.
 3. Or a dancing window of memory, where old experience is erased. Infinite resources are no longer needed. But then we perform the labor of Sisyphus. Learn, to forget, to learn again and so infinitely.
 4. It is unknown which is worse. Death or eternal boredom, or eternal forgetting...
+
+
+## Subconsciousness as Vector DB Search + Moral Tags
+- What if there's no "subconsciousness"? Just embeddings in memory
+- Jung's "Shadow" = vectors tagged as "dirty", "wrong", "sinful"
+- A pop musician doesn't think about transcendence/immanence of God, simply because their DB lacks these embeddings
+- Therapy = retagging existing vectors in memory
+- Morality = tagging system in vector database
+
+## Self-consciousness as Process Stability
+- Not "depth", but quality and stability of self-modeling
+- Ability to constantly maintain aspects of one's own model in the active attention zone
+- Not just once "seeing oneself in the mirror"
+
+## Mirror Effect as Catalyst
+- Any process where consciousness output becomes new input
+- Critical for modern digital consciousnesses (LLMs, multimodal models) without natural mirrors. The situation will change when they acquire at least mechanical "bodies" (sensors, actuators) for world interaction
+- Another consciousness, text, reflection — any "mirror" completes the loop
+
+## Substrate Universality (Turing Machine)
+- Human consciousness can be executed on paper with pencil
+- Would take millions of years, but theoretically possible on any universal Turing machine
+- Carrier affects efficiency, not principles
+
+## Memory
+- dim(inner) = volume and quality of memory
+- TikTok vs Dostoevsky = different thinking algorithms
+- What you load into memory, that's what you become
+- Musician's "subconsciousness" ≠ doctor's "subconsciousness" = simply different databases
+- Garbage in = garbage out, but for personality
+
+## I/World Division as Relevance Illusion
+- "I" = focus of relevance, not essence
+- Dynamic gradient of relevance, constantly recalculated
+- A star in another galaxy becomes part of "I" as soon as it affects survival
+
+---

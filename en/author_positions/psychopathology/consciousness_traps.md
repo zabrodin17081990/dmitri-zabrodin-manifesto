@@ -1,4 +1,4 @@
-# 6. Universal Consciousness Traps
+# Universal Consciousness Traps
 
 The recursive nature of consciousness creates characteristic dysfunctions:
 

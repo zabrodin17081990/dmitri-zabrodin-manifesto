@@ -1,4 +1,4 @@
-# 10. Natural Selection of Consciousnesses
+# Natural Selection of Consciousnesses
 
 Consciousnesses compete for limited resources:
 - Computational power
